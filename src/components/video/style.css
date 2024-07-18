@@ -1,0 +1,22 @@
+.container_video{
+    max-width: 2000px;
+    margin: 0 auto;
+    background-color: gray;
+    height: 668px;
+}
+@media (max-width: 1380px) {
+    .container_video {
+     max-width: 1380px;
+    }
+  }
+
+.iframes{
+    min-width: 2000px;
+    height: 788px;
+}
+@media (max-width: 1680px) {
+    .iframes {
+     min-width: 1380px;
+     min-height: 688px;
+    }
+  }
